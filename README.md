@@ -1,10 +1,17 @@
 # Gitverkefni
 verkefni í git skipunum og markdown
 
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-#verkefni
-##verkefni
-###verkefni
-####verkefni
-#####verkefni
-######verkefni
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
